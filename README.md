@@ -37,8 +37,7 @@ Ensure that you have the CUDA toolkit and appropriate drivers installed if you p
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+     https://github.com/ZoroJoro/Text-Detection-and-Recognition-with-EasyOCR.git
    ```
 
 2. **Replace the Image Path:**
@@ -46,10 +45,10 @@ Ensure that you have the CUDA toolkit and appropriate drivers installed if you p
 
 3. **Run the Script:**
    ```bash
-   python your_script_name.py
+   main.py
    ```
 
-   Replace `your_script_name.py` with the name of your Python script file.
+
 
 ## License
 This project is licensed under the MIT License.
